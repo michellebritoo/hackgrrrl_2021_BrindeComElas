@@ -1,0 +1,18 @@
+{
+  "name": "chatbot_bce",
+  "version": "1.0.0",
+  "description": "Chatbot atuando no Whatsapp simulando, a comunidade entre clientes e fabricantes de bebidas alcoólicas. Parte da solução Brinde Com Elas para o Hack Grrrl 2021.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "crparaizo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "twilio": "^3.61.0"
+  }
+}
