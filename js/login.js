@@ -1,16 +1,15 @@
 function validate() {
     var usuarioEmail = document.getElementById("exampleInputEmail1").value;
     var senhaUsuario = document.getElementById("exampleInputPassword1").value;
-
-
+     
     alert(usuarioEmail);
     alert(senhaUsuario);
 
 
-    // if (usuarioEmail == "candida@gmail.com" && senhaUsuario == "candida") {
-    //     alert("Login successfully");
-    //     return false;
-    // }
+     if (usuarioEmail == "candida@gmail.com" && senhaUsuario == "candida") {
+         alert("Login successfully");
+         return false;
+     }
 
     var aviso = false;
 
