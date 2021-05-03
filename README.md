@@ -13,22 +13,22 @@
 -
 
 ## Que tecnologias vocês usaram no hackathon?
--Protótipo:
+- Protótipo:
 Figma
 
--Aplicação Web:
+- Aplicação Web:
 HTML, CSS, Javascript, Boostrap
 
--Chatbot para Whatsapp
+- Chatbot para Whatsapp
 Node JS, Twilio, Ngrok
 
 ## Por que vocês escolheram essas tecnologias?
--As tecnoligias de prototipação e aplicação web foram escolhidas porque nós, desenvovedoras do time 8s tinham conecimentos em comum.
+- As tecnoligias de prototipação e aplicação web foram escolhidas porque nós, desenvovedoras do time 8s tinham conecimentos em comum.
 
--Já as escolhidas para o chatbot teve relação com os conteudos apresentados em lives pelos patrocinadores do HACK GRRL 2021.
+- Já as escolhidas para o chatbot teve relação com os conteudos apresentados em lives pelos patrocinadores do HACK GRRL 2021.
 
 ## Qual foi a maior desafio (da parte de desenvolvimento) durante o hackathon? Como vocês resolveram?
--Desenvolvimento front-end: posicionar elementos, pois nós, desenvolvedoras do time 8 temos eprfil mais voltado para cósido (backend)
+- esenvolvimento front-end: posicionar elementos, pois nós, desenvolvedoras do time 8 temos eprfil mais voltado para cósido (backend)
 
 ## Qual foi o maior aprendizado (ou uma parte do código que vocês achem massa e estão orgulhosas)?
 - Calma e persistência; que não adianta nos desesperarmos se algo der errado; que se surgir algum problema 
@@ -47,22 +47,25 @@ Mas provavelmente escolheriamos outras tecnologias, pois estamos participando de
 
 *O chatbot foi desenvolvido com alguns recursos da Twilio, então para interagir siga as seguintes etapas:
 
-1- Na pasta que tem o arquivo 'server.js', abra o terminal e digite "npm start"
-2- Na mesma pasta, abra outro terminal e "digite ngrok http 3000"
-3- Copie a url https que aparece no terminal do ngrok
-4- Cole a url na página Twilio Sandbox for WhatsApp
-5- Salvar o número 14155238886 nos contatos do celular
-6- Enviar no chat da conversa "join jet-moving"
-7- Palavras para interagir com o bot:
+<ul>
+<li> 1- Na pasta que tem o arquivo 'server.js', abra o terminal e digite "npm start" </li>
+<li> 2- Na mesma pasta, abra outro terminal e "digite ngrok http 3000" </li>
+<li> 3- Copie a url https que aparece no terminal do ngrok </li>
+<li> 4- Cole a url na página Twilio Sandbox for WhatsApp </li>
+<li> 5- Salvar o número 14155238886 nos contatos do celular </li>
+<li> 6- Enviar no chat da conversa "join jet-moving" </li>
+<li> 7- Palavras para interagir com o bot: </li>
 
-olá, ola, oi
-tchau
-recomendação , sugestão
-dicas
-fabricantes, vendedoras
-obrigada
+<ul>
+<li> olá, ola, oi </li>
+<li> tchau </li>
+<li> recomendação , sugestão </li>
+<li >dicas </li>
+<li> fabricantes, vendedoras </li>
+<li> obrigada </li>
+</ul>
 
-8- Se quiser se deconectar, digite 'stop' na conversa
-
+<li> 8- Se quiser se deconectar, digite 'stop' na conversa </li>
+<ul>
 
 Para futuras dúvidas assistir essa explicação: https://www.youtube.com/watch?v=3rGmaDgA7Sc
