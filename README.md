@@ -1,4 +1,4 @@
-# <h1> Binde Com Elas by Time Oito </h1>
+# <h1> Brinde Com Elas by Time Oito </h1>
 
 <h2>Integrantes:</h2>
 <ul>
@@ -10,7 +10,18 @@
 </ul>
 
 ## Objetivo e Motivações
--
+- Como usar a tecnologia, alinhado com o marketing, para diminuir o estereótipo sobre o público feminino em propagandas de bebdas alcoólicas? Pensando nisso, surge a BrindeComElas. 
+- Uma plataforma web para a comunidade que visa conectar mulheres fabricantes de bebidas alcoólicas artesanais com mulheres que consomem, através da venda dos produtos na plataforma e de fóruns, via whatsapp para trocas de informações, como opiniões dos melhores tipos de cerveja, bons vinhos, entre outros. 
+
+<h3> Benefícios </h3>
+
+<ul> 
+<li> Divulgação das mulheres que produzem; </li>
+<li> Acolhimento para conversar com as produtoras E ainda a possibilidade de receber avaliação de especialistas sobre as bebidas. </li>
+<li> A BrindeComElas veio para revolucionar o marketing de bebidas alcoólicas para o público feminino, uma vez que proporcionamos um canal para mulheres comprarem de mulheres com uma estratégia de marketing consciente. </li>
+<ul>
+  
+Ao invés de criticar, brinde com elas!
 
 ## Que tecnologias vocês usaram no hackathon?
 - Protótipo:
