@@ -38,7 +38,8 @@ HTML, CSS, Javascript, Boostrap
 Node JS, Twilio, Ngrok
 
 - Desenvolvimento de API Rest com biblioteca Sheety. Construímos uma API com relacionamento entre planilhas para ser consumida pelo login. Como não tivemos tempo hábil para consolidar a aplicação, esse microserviço fica para melhorias futuras. Exemplo de requisição funcionando:
--![image](https://user-images.githubusercontent.com/70734738/116837718-f72df280-aba1-11eb-9479-5c12fff08118.png)
+
+![image](https://user-images.githubusercontent.com/70734738/116837718-f72df280-aba1-11eb-9479-5c12fff08118.png)
 
 
 
