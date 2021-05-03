@@ -37,13 +37,18 @@ HTML, CSS, Javascript, Boostrap
 - Chatbot para Whatsapp
 Node JS, Twilio, Ngrok
 
+- Desenvolvimento de API Rest com biblioteca Sheety. Construímos uma API com relacionamento entre planilhas para ser consumida pelo login. Como não tivemos tempo hábil para consolidar a aplicação, esse microserviço fica para melhorias futuras. Exemplo de requisição funcionando:
+-![image](https://user-images.githubusercontent.com/70734738/116837718-f72df280-aba1-11eb-9479-5c12fff08118.png)
+
+
+
 ## Por que vocês escolheram essas tecnologias?
 - As tecnoligias de prototipação e aplicação web foram escolhidas porque nós, desenvovedoras do time 8s tinham conecimentos em comum.
 
 - Já as escolhidas para o chatbot teve relação com os conteudos apresentados em lives pelos patrocinadores do HACK GRRL 2021.
 
 ## Qual foi a maior desafio (da parte de desenvolvimento) durante o hackathon? Como vocês resolveram?
-- esenvolvimento front-end: posicionar elementos, pois nós, desenvolvedoras do time 8 temos eprfil mais voltado para cósido (backend)
+- desenvolvimento front-end: posicionar elementos, pois nós, desenvolvedoras do time 8 temos perfil mais voltado para cósido (backend)
 
 ## Qual foi o maior aprendizado (ou uma parte do código que vocês achem massa e estão orgulhosas)?
 - Calma e persistência; que não adianta nos desesperarmos se algo der errado; que se surgir algum problema 
