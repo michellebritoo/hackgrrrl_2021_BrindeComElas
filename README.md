@@ -1,13 +1,13 @@
 # <h1> Binde Com Elas by Time Oito </h1>
 
 <h2>Integrantes:</h2>
-
-Cândida Rosa - https://github.com/crparaizo || https://www.linkedin.com/in/crparaizo/
-Fernanda Noqueira - https://uxfol.io/fernanda.n2  ||  https://www.linkedin.com/in/fernandan2/
-Gabrielly Helena - https://www.linkedin.com/in/gabryelli-helena-4971886b/
-Michelle Brito - https://github.com/michellebritoo  ||  https://www.linkedin.com/in/michellebrito01/
-Virna OLiveira - https://www.linkedin.com/in/virna-oliveira-78400b205/
-
+<ul>
+<li> Cândida Rosa - https://github.com/crparaizo || https://www.linkedin.com/in/crparaizo/ </li>
+<li> Fernanda Noqueira - https://uxfol.io/fernanda.n2  ||  https://www.linkedin.com/in/fernandan2/ </li>
+<li> Gabrielly Helena - https://www.linkedin.com/in/gabryelli-helena-4971886b/ </li>
+<li> Michelle Brito - https://github.com/michellebritoo  ||  https://www.linkedin.com/in/michellebrito01/ </li>
+<li> Virna OLiveira - https://www.linkedin.com/in/virna-oliveira-78400b205/ </li>
+</ul>
 
 ## Objetivo e Motivações
 -
