@@ -20,8 +20,10 @@
 <li> Acolhimento para conversar com as produtoras E ainda a possibilidade de receber avaliação de especialistas sobre as bebidas. </li>
 <li> A BrindeComElas veio para revolucionar o marketing de bebidas alcoólicas para o público feminino, uma vez que proporcionamos um canal para mulheres comprarem de mulheres com uma estratégia de marketing consciente. </li>
 <ul>
-  
-Ao invés de criticar, brinde com elas!
+
+##
+<h4 style="color: purple" > Ao invés de criticar, brinde com elas! </h4>
+##
 
 ## Que tecnologias vocês usaram no hackathon?
 - Protótipo:
