@@ -22,7 +22,9 @@
 <ul>
 
 ##
+
 <h4 style="color: purple" > Ao invés de criticar, brinde com elas! </h4>
+
 ##
 
 ## Que tecnologias vocês usaram no hackathon?
